@@ -1,0 +1,124 @@
+{
+  "interrupts": {
+    "b54708ac-4259-3b0f-8b6e-f461a1bd423a": {
+      "data": {
+        "thread_id": "b54708ac-4259-3b0f-8b6e-f461a1bd423a",
+        "action_type": "ResponseEmailDraft",
+        "action_content": "Thank you for sharing your business idea about the AI immigration agent. I have scheduled a meeting for us to discuss it in detail tomorrow at 1 PM EST. You should have received a calendar invite with the meeting details. Looking forward to our discussion.",
+        "email_sender": "Unknown",
+        "email_subject": "Unknown",
+        "email_content": "",
+        "send_time": "",
+        "assistant_id": "2c1a80c0-83eb-5d55-a1e6-2a1a32096c77",
+        "interrupt_details": {
+          "config": {},
+          "description": ""
+        },
+        "calendar_invite": {
+          "title": "",
+          "start_time": "",
+          "end_time": "",
+          "emails": []
+        },
+        "email": {
+          "id": ""
+        }
+      },
+      "status": "sent",
+      "timestamp": "2025-04-12T15:24:10.746541",
+      "message_id": 229,
+      "chat_id": 70082264
+    },
+    "db7bcbe7-03ee-8d2f-33ef-c48ad81633ca": {
+      "data": {
+        "thread_id": "db7bcbe7-03ee-8d2f-33ef-c48ad81633ca",
+        "action_type": "Question",
+        "action_content": "Do you want to plan a trip to Iran next month? If so, do you have any specific dates in mind for this trip?",
+        "email_sender": "Mohammad Hosseini <mohobiz.info@gmail.com>",
+        "email_subject": "plan for a summer trip",
+        "email_content": "Hi Mohammad,\nHope all is well with you.\n\nDo you like to plan a trip for next month?\nI'd like to visit Iran, what do you think?\n",
+        "send_time": "2025-04-12T12:22:49-04:00",
+        "assistant_id": "2c1a80c0-83eb-5d55-a1e6-2a1a32096c77",
+        "interrupt_details": {
+          "config": {},
+          "description": ""
+        },
+        "calendar_invite": {
+          "title": "",
+          "start_time": "",
+          "end_time": "",
+          "emails": []
+        }
+      },
+      "status": "completed",
+      "timestamp": "2025-04-12T14:07:29.534006",
+      "message_id": 203,
+      "chat_id": 70082264
+    },
+    "2447f01a-731a-1872-59c1-e3a80e261481": {
+      "data": {
+        "thread_id": "2447f01a-731a-1872-59c1-e3a80e261481",
+        "action_type": "ResponseEmailDraft",
+        "action_content": "Hi,\n\nThank you for sharing your new business idea about the AI immigration agent. I appreciate the opportunity to review it. I will go through the one-pager and get back to you with my thoughts soon.\n\nBest regards,\nMohammad",
+        "email_sender": "Mohammad Hosseini <moh.h@nextstars.io>",
+        "email_subject": "New Idea Validation",
+        "email_content": "Hi Mohammad,\nHope you are well.\nI shared my new business idea with you, you can find it in attachment. it's\nabout an AI immigration agent, please review the one pager and let me know\nwhat you think.\n\nThanks\n",
+        "send_time": "2025-04-12T14:15:45-04:00",
+        "assistant_id": "2c1a80c0-83eb-5d55-a1e6-2a1a32096c77",
+        "interrupt_details": {
+          "config": {},
+          "description": ""
+        },
+        "calendar_invite": {
+          "title": "",
+          "start_time": "",
+          "end_time": "",
+          "emails": []
+        },
+        "email": {
+          "id": ""
+        }
+      },
+      "status": "sent",
+      "timestamp": "2025-04-12T15:24:10.351289",
+      "message_id": 227,
+      "chat_id": 70082264
+    },
+    "274ed91b-136b-0784-9222-af4eb9009604": {
+      "data": {
+        "thread_id": "274ed91b-136b-0784-9222-af4eb9009604",
+        "action_type": "Question",
+        "action_content": "Do you want to plan a trip to Iran next month? If so, do you have any specific dates in mind?",
+        "email_sender": "Mohammad Hosseini <mohobiz.info@gmail.com>",
+        "email_subject": "plan for a short trip",
+        "email_content": "Hi Mohammad,\nHope all is well with you.\n\nDo you like to plan a trip for next month?\nI'd like to visit Iran, what do you think?\n",
+        "send_time": "2025-04-12T14:17:22-04:00",
+        "assistant_id": "2c1a80c0-83eb-5d55-a1e6-2a1a32096c77",
+        "interrupt_details": {
+          "config": {},
+          "description": ""
+        },
+        "calendar_invite": {
+          "title": "",
+          "start_time": "",
+          "end_time": "",
+          "emails": []
+        },
+        "email": {
+          "id": ""
+        }
+      },
+      "status": "sent",
+      "timestamp": "2025-04-12T15:24:10.554315",
+      "message_id": 228,
+      "chat_id": 70082264
+    }
+  },
+  "user_state": {
+    "70082264": {
+      "awaiting_response": null
+    }
+  },
+  "last_checked": "2025-04-12T15:24:10.941720",
+  "version": 1
+}
