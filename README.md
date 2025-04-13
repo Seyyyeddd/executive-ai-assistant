@@ -2,11 +2,10 @@
 
 A powerful AI email assistant built on the Executive AI Assistant framework with a custom Telegram interface for mobile interaction.
 
-![Project Banner](https://user-images.githubusercontent.com/YOUR_GITHUB_ID/ai-email-assistant/main/docs/banner.png)
 
 ## Overview
 
-This project enhances the [Executive AI Assistant](https://github.com/langchain-ai/executive-assistant) framework with a custom Telegram interface, allowing users to:
+This project enhances the [Executive AI Assistant](https://github.com/langchain-ai/executive-ai-assistant) framework with a custom Telegram interface, allowing users to:
 
 - Process and triage incoming emails automatically
 - Receive AI-generated draft responses for approval
@@ -126,10 +125,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Based on the [Executive AI Assistant](https://github.com/langchain-ai/executive-assistant) by LangChain
-- Uses [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) for Telegram integration
+- Based on the [Executive AI Assistant](https://github.com/langchain-ai/executive-ai-assistant) by LangChain
 - Powered by LangGraph for workflow orchestration
 
 ---
 
-Built by Moho (https://github.com/YOUR_GITHUB_HANDLE) 
+Built by ([Mohobiz](https://github.com/mohobiz)) 
