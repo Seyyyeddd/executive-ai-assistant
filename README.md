@@ -115,14 +115,6 @@ For production use, consider:
 
 See `docs/deployment.md` for detailed deployment instructions.
 
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Based on the [Executive AI Assistant](https://github.com/langchain-ai/executive-ai-assistant) by LangChain
